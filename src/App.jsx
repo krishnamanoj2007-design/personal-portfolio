@@ -25,7 +25,7 @@ function App() {
       </main>
 
       <footer>
-        <p>© 2026 Sanjay. All Rights Reserved.</p>
+        <p>© 2026 Manoj. All Rights Reserved.</p>
       </footer>
     </>
   );

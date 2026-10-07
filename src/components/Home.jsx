@@ -7,7 +7,7 @@ function Home({ onViewProjects }) {
         <p className="welcome">WELCOME TO MY PORTFOLIO</p>
 
         <h1>
-          Hi, I'm Sanjay Nemalapuri
+          Hi, I'm Manoj 
         </h1>
 
         <h2>ECE Student & Aspiring Developer</h2>
